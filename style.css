@@ -1,0 +1,25 @@
+div {
+  font-weight: bold;
+  background-color: lightgray;
+}
+
+#primu {
+  font-size: xx-large;
+}
+
+.test {
+  text-align: end;
+}
+
+#verde {
+  color: green;
+}
+
+#galben {
+  color: darkcyan;
+}
+
+#rosu {
+  color: darkkhaki;
+  background-color: cadetblue;
+}
